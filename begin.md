@@ -1,32 +1,32 @@
-# computer basic
+# Computer Basics
 
-## file
+## File
 
 - text
 - binary
 
-## operation system
+## Operation system
 
 - windows
 - linux
 - macos
 - difference
 
-## programming language
+## Programming language
 
 - C
 - java
 - python
 - difference and which to learn
 
-# the C programming language
+# The C programming language
 
-## how to compile
+## How to compile
 
 - editor & compiler
 - IDE
 
-## basic
+## Basics of C 
 
 - data types
 - operation
@@ -35,36 +35,36 @@
 - process control
 - library
 
-## pointer & memory
+## Pointer & memory
 
 - memory module
 - array & pointer
 - stack & heap memory
 - struct
 
-## oop
+## OOP
 
 - oop is a way of thinking
 - oop by struct and function
 
-## project
+## Project organization
 
 - header file & source file
 - organize multiple files
 - preprocess, compile and link
 - makefile
 
-# debug
+# Debugging
 
-## log
+## Logging
 
 - printf
 
-## debugger
+## Debugger
 
 - gdb
 
-# git
+# Git
 
 - version control
 - add & commit
@@ -73,7 +73,7 @@
 - tag
 - mechanism
 
-# what to do next
+# What to do next
 
 - data structure
 - csapp or 6.001 & 6.004
