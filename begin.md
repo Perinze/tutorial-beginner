@@ -21,7 +21,7 @@
 
 # the C programming language
 
-## how to compile
+## how to compile & run
 
 - editor & compiler
 - IDE
@@ -29,8 +29,8 @@
 ## basic
 
 - data types
-- operation
-- input & output
+- operation & expression
+- standard io
 - function
 - process control
 - library
@@ -41,11 +41,6 @@
 - array & pointer
 - stack & heap memory
 - struct
-
-## oop
-
-- oop is a way of thinking
-- oop by struct and function
 
 ## project
 
